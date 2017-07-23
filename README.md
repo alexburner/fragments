@@ -1,8 +1,6 @@
-# spectrogram.party
+# fragments
 
-Audio spectrogram visualization for SoundCloud tracks
-
-Living at https://spectrogram.party/
+collecting internal & external facets
 
 ## install
 Install npm dependencies
@@ -10,15 +8,8 @@ Install npm dependencies
 npm install
 ```
 
-## serve
-Start up `http-server` in `docs` (for local development)
-```
-npm run serve
-```
-https://github.com/indexzero/http-server
-
 ## watch
-Run webpack dev build (`src >> docs`) and re-run on changes
+Run webpack dev server with watch
 ```
 npm run watch
 ```

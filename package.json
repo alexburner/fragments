@@ -1,7 +1,7 @@
 {
-  "name": "spectrogram.party",
-  "version": "0.2.1",
-  "description": "Audio spectrogram visualization for SoundCloud tracks",
+  "name": "fragments",
+  "version": "0.1.0",
+  "description": "collecting internal & external idea facets",
   "main": "index.js",
   "scripts": {
     "build": "rm -rf docs/* && webpack -p",
